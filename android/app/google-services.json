@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "710011519551",
+    "firebase_url": "https://testingdemo-abba8.firebaseio.com",
+    "project_id": "testingdemo-abba8",
+    "storage_bucket": "testingdemo-abba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710011519551:android:6fa694da9e302e60d2ae8a",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710011519551-gesmg34vpf8ocpsc2hnqmgef5s5t770e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDu9vvOrsRHBqxRxvRtm65Rjb3IaqNc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710011519551-gesmg34vpf8ocpsc2hnqmgef5s5t770e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710011519551:android:4acc7e0406a3d269d2ae8a",
+        "android_client_info": {
+          "package_name": "com.example.signupfacebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710011519551-gesmg34vpf8ocpsc2hnqmgef5s5t770e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDu9vvOrsRHBqxRxvRtm65Rjb3IaqNc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710011519551-gesmg34vpf8ocpsc2hnqmgef5s5t770e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
